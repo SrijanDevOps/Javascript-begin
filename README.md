@@ -1,2 +1,3 @@
 # Javascript-begin
-A code repo for javascipt
+A code repo for javascipt at chai or code channel
+
